@@ -12,14 +12,14 @@ Power BI: Interactive dashboards with KPIs and visualizations
 A dummy e-commerce sales dataset from Kaggle.
 
 # 📈 Key Metrics & Insights
-Monthly revenue trends
-Sales by region & product category
-Top selling products
+✅ Monthly revenue trends
+✅ Sales by region & product category
+✅ Top selling products
 
 # 🏗️ Project Workflow
 1️⃣ Data Cleaning & Exploration (Excel)
-Check for duplicates & missing values
-Create pivot tables for preliminary insights
+✅ Check for duplicates & missing values
+✅ Create pivot tables for preliminary insights
 
 2️⃣ Data Analysis (SQL)
 ✅ Query total sales per region
@@ -31,6 +31,5 @@ Create pivot tables for preliminary insights
 
 3️⃣ Visualization & Reporting (Power BI)
 ✅ Build interactive dashboards with:
-
 KPIs: Total sales and average of customers
-Charts: Bar chart, line chart, and doughnut charts.
+Charts: Bar chart, line chart, and doughnut charts
