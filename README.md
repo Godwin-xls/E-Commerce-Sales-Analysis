@@ -18,8 +18,8 @@ Top selling products
 
 # 🏗️ Project Workflow
 1️⃣ Data Cleaning & Exploration (Excel)
-✅ Check for duplicates & missing values
-✅ Create pivot tables for preliminary insights
+Check for duplicates & missing values
+Create pivot tables for preliminary insights
 
 2️⃣ Data Analysis (SQL)
 ✅ Query total sales per region
